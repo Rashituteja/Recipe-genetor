@@ -1,1 +1,1 @@
-# Recipe-genetor
+# Recipe-generator
